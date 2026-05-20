@@ -1,4 +1,4 @@
-<img src="icons/Savion.png" alt="logo" height="400">
+<img src="Savion.png" alt="logo" height="400">
 
 # Savion
 
