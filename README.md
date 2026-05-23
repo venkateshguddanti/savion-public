@@ -8,7 +8,7 @@ AI-powered knowledge capture and reminder system that turns saved content into a
 
 # Overview
 
-**Savion** is an AI-first productivity application designed to move beyond traditional note-taking apps. Instead of manually writing and organizing notes, users can **capture information with a single tap**, and the system automatically processes and understands the content.
+**Savion** is an AI-first productivity android application designed to move beyond traditional note-taking apps. Instead of manually writing and organizing notes, users can **capture information with a single tap**, and the system automatically processes and understands the content.
 
 The platform uses **Machine Learning and Large Language Models (LLMs)** to analyze saved content and transform it into actionable knowledge.
 
