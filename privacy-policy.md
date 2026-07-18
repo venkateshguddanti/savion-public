@@ -115,7 +115,7 @@ Savion may use trusted third-party services to provide app functionality, includ
 * Google AI services
 * Google AI SDK
 * Google AI File service
-* Firebase services (if enabled in future versions)
+* Firebase services
 
 These services may process only the information required to provide the functionality you request and are governed by their own privacy policies.
 
@@ -150,9 +150,14 @@ You can:
 
 ---
 
-# Children's Privacy
+## Children's Privacy
 
-Savion is not designed for or directed toward children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided information through the app, please contact us so appropriate action can be taken.
+Savion is suitable for general audiences. However, it is not specifically designed for or directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If you believe that a child has provided personal information through the app, please contact us so we can address the request where applicable.
+
+Parents or guardians should supervise the use of the app by young children, especially when sharing documents, images, audio, or other content for AI-powered processing.
+
 
 ---
 
